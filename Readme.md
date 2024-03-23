@@ -5,3 +5,5 @@
 - File Handling
 - Exception Handling
 - Conditional Statements
+- Numpy
+- Pandas
